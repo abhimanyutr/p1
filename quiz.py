@@ -53,21 +53,7 @@ questions = [
         "options": ["A. Stack", "B. Queue", "C. Priority Queue", "D. Linked List"],
         "answer": "B"
     },
-    {
-        "prompt": "What is the difference between `is` and `==` in Python?",
-        "options": [
-            "A. Both compare values",
-            "B. `is` compares identity, while `==` compares values",
-            "C. `is` compares values, while `==` compares identity",
-            "D. They are equivalent in all scenarios"
-        ],
-        "answer": "B"
-    },
-    {
-        "prompt": "In Java, which keyword is used to prevent a method from being overridden?",
-        "options": ["A. final", "B. static", "C. protected", "D. private"],
-        "answer": "A"
-    }
+    
 ]
 
 
